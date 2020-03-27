@@ -1,7 +1,9 @@
 # DeadlyTrade
-Path Of Exile Addon
+Path Of Exile Addon : Repository moved.
+
 # DeadlyTrade Overhaul Version
-Repository moved. : https://github.com/DeadlyCrush/DeadlyTradeOverhaul
+https://github.com/DeadlyCrush/DeadlyTradeOverhaul
+
 # Status
 ## Build
 
@@ -16,4 +18,3 @@ Repository moved. : https://github.com/DeadlyCrush/DeadlyTradeOverhaul
 DeadlyTrade 1.0.0.0 Version. ~ 2020.02.15
 
 [![Github All Releases](https://img.shields.io/github/downloads/DeadlyCrush/DeadlyTrade-Closed-Overhaul-Version-Open/total.svg)]()
-
